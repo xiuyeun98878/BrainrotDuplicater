@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/scE7pGrT/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/qYlkCOqd/raw"))()
 --// VelchiScripts Mobile Moveable GUI
 
 local Players = game:GetService("Players")
