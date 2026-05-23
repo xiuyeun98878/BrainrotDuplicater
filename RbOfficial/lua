@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/CXMlbog8/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/9RyffZJL/raw"))()
 
 --// SERVICES
 local Players = game:GetService("Players")
